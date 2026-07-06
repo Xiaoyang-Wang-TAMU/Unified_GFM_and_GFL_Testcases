@@ -9,4 +9,4 @@ For Case 3, the system data is included in "IEEE39data_UGFandGFM.m".
 The HIL PLECS simulation file is also included in "HIL_UGFMLPredictAIO.plecs". It can be either run in local PC or in PLECS RT box.
 Please refer to our paper for more information:
 
-Xiaoyang Wang, Xin Chen, "A Unified Framework for Hybrid Grid-Forming and Grid-Following Inverter Control." arXiv preprint arXiv:2607.01616 (2026).
+Wang, X., & Chen, X. (2026). *A Unified Framework for Hybrid Grid-Forming and Grid-Following Inverter Control*. *arXiv preprint*, arXiv:2607.01616. [arXiv](https://arxiv.org/abs/2607.01616)
