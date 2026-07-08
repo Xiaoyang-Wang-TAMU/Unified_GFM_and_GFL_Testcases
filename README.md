@@ -1,6 +1,6 @@
 # Unified_GFML_Testcase
 This repository includes all the Simulink test case and Hardware-in-the Loop (HIL) test case for unified GFM/L model proposed in our paper. 
-## Case1:individual inverter connected with an infinite bus; 
+## Case 1: Individual inverter connected with an infinite bus; 
 ## Case 2: Two-inverter system (PQ-Vf) and (PV-Qf). 
 ## Case 3: IEEE39 bus system.
 For Case 3, the system data is included in "IEEE39data_UGFandGFM.m".
