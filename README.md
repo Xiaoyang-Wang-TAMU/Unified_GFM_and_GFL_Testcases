@@ -10,3 +10,6 @@ The HIL PLECS simulation file is also included in "HIL_UGFMLPredictAIO.plecs". I
 Please refer to our paper for more information:
 
 Xiaoyang Wang, Xin Chen. *A Unified Framework for Hybrid Grid-Forming and Grid-Following Inverter Control*. *arXiv preprint*, 2026. [arXiv:2607.01616.](https://arxiv.org/abs/2607.01616)
+
+
+All the cases are built based on MatLab/Simulink R2024a. For other versions 2020a-2023b are provided in the folder OtherSimulinkVersion""
